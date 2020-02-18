@@ -1,3 +1,7 @@
-# exercice_HTML-CSS_HOVER-EFFECTS
-Card hover effect | This is my learning exercice using CSS Card Hover Effects (I developped this effect during my free-time)
+**CARD HOVER ANIMATION : You can build your own project card design**
 
+
+-----------------------------------------------------------------------------------------------------------------------------------
+![TravelAgence](https://user-images.githubusercontent.com/61105869/74770187-0f12a280-528c-11ea-86d5-692614a207ce.jpg)
+
+You Can Build Your Own
