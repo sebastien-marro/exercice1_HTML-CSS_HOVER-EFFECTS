@@ -2,6 +2,6 @@
 
 
 -----------------------------------------------------------------------------------------------------------------------------------
-![TravelAgence](https://user-images.githubusercontent.com/61105869/74770187-0f12a280-528c-11ea-86d5-692614a207ce.jpg)
+![Card effect](https://user-images.githubusercontent.com/61105869/74774299-b810cb80-5293-11ea-9164-4f6456ec9034.jpg)
 
 *(This website was developped during my free-time to learn HTML and CSS)*
